@@ -1,0 +1,1 @@
+{"SuTerminal":{"minimumDiscordVersion":124012,"version":"1.2.0","build":"https://raw.githubusercontent.com/DerGoogler/aliucord-plugins/builds/%s.zip","changelog":"# 1.2.0\n* Add ability to send (default is false)\n# 1.1.0\n* Added support for custom mkshrc. (loads `/system/etc/mkshrc`)\n# 1.0.0\n* Initial release"}}
